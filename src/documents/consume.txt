@@ -1,0 +1,3 @@
+breakfast 20
+lunch 50
+supper 30
